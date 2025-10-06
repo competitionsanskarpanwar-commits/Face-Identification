@@ -1,7 +1,3 @@
-Of course. That's a critical piece of information for the user. Adding it as a prominent note in the "Usage" section is the best place for it.
-
-Here is the revised `README.md` with the new reminder included. I've used a blockquote to make it stand out.
-
 ***
 
 # Custom Face Identification with PyTorch
