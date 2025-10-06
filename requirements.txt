@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision
+numpy
+opencv-python
+scikit-learn
+PyYAML
+tqdm
+Pillow
+
+Run this command:
+
+pip install 
