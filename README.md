@@ -52,8 +52,10 @@ python run.py
 After the pipeline completes, you can test the trained model on any new image using the following command:
 
 ```bash
-python -m src.recognise path/to/your/image.jpg
+python -m src.recognise image.jpg
 ```
+
+> **Important Reminder:** The testing image needs to be in the same parent folder where src/ folder resides.
 
 ## Project Structure
 
